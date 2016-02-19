@@ -2,6 +2,7 @@ name: the grumpy cooker
 favicon: null
 layout_spectrum: 0.8757797968573868
 typography_spectrum: 0.24202174809761345
+title: the grumpy cooker
 cta:
   domain: null
   bucket: null
