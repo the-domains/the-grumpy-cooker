@@ -1,0 +1,28 @@
+name: the grumpy cooker
+favicon: null
+layout_spectrum: 0.8757797968573868
+typography_spectrum: 0.24202174809761345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6693158927373588
+  lightness: 0.3969424257520586
+  saturation: 0.510325615061447
+  rhythmicContrast: 0.09559854911640286
+purpose: []
