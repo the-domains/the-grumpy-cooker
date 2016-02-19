@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the grumpy cooker]]></title>
+        <description><![CDATA[the grumpy cooker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 19:50:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>tofu curry</p>]]></description>
+            <link>undefined6f58f046-0e65-4890-ae65-ab1285b08362/index.html</link>
+            <guid isPermaLink="false">6f58f046-0e65-4890-ae65-ab1285b08362</guid>
+            <pubDate>Fri, 19 Feb 2016 19:49:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
